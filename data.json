@@ -1,0 +1,42 @@
+[
+    {
+        "lastUpdatedDate": "13/05/2021",
+        "unitOfMeassure": "MTR",
+        "productDescription": "Custom Description",
+        "productId": 1000,
+        "pricePerUnit": 2,
+        "productName": null
+    },
+    {
+        "lastUpdatedDate": "13/05/2021",
+        "unitOfMeassure": "MTR",
+        "productDescription": "Custom Description",
+        "productId": 1001,
+        "pricePerUnit": 13,
+        "productName": null
+    },
+    {
+        "lastUpdatedDate": "13/05/2021",
+        "unitOfMeassure": "MTR",
+        "productDescription": "Custom Description",
+        "productId": 1002,
+        "pricePerUnit": 24,
+        "productName": null
+    },
+    {
+        "lastUpdatedDate": "13/05/2021",
+        "unitOfMeassure": "MTR",
+        "productDescription": "Custom Description",
+        "productId": 1003,
+        "pricePerUnit": 35,
+        "productName": null
+    },
+    {
+        "lastUpdatedDate": "13/05/2021",
+        "unitOfMeassure": "MTR",
+        "productDescription": "Custom Description",
+        "productId": 1004,
+        "pricePerUnit": 46,
+        "productName": null
+    }
+]
